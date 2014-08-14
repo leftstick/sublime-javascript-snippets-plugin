@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+${1:ClassName}.prototype.${2:methodName} = function(${3}) {
+    ${0:// body...}
+};
+]]></content>
+    <tabTrigger>proto</tabTrigger>
+    <scope>source.js</scope>
+    <description>Prototype</description>
+</snippet>

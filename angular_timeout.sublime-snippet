@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+\$timeout(function(){
+    ${2://body...}
+}, ${1:0});
+]]></content>
+    <tabTrigger>ato</tabTrigger>
+    <scope>source.js</scope>
+    <description>Angular $timeout expression</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+define([${1}], function(${2}){
+    ${3://body...}
+});
+]]></content>
+    <tabTrigger>def</tabTrigger>
+    <scope>source.js</scope>
+    <description>Requirejs define module</description>
+</snippet>
