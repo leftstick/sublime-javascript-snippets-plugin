@@ -10,38 +10,32 @@ A collection of javascript snippets can be used in sublime text as a plugin
 ### Mac OS X ###
 
 ```Shell
-git clone git@github.com:leftstick/sublime-javascript-snippets-plugin.git ~/Library/Application Support/Sublime Text 3/Packages/JavaScript
+git clone git@github.com:leftstick/sublime-javascript-snippets-plugin.git ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/sublime-javascript-snippets
 ```
 
 ### Linux ###
 
 ```Shell
-git clone git@github.com:leftstick/sublime-javascript-snippets-plugin.git ~/.config/sublime-text-3/Packages/JavaScript
+git clone git@github.com:leftstick/sublime-javascript-snippets-plugin.git ~/.config/sublime-text-3/Packages/sublime-javascript-snippets
 ```
 
 ### Windows ###
 
-#### command line ####
-
-```Shell    
-git clone git@github.com:leftstick/sublime-javascript-snippets-plugin.git "%userprofile%\AppData\Roaming\Sublime Text 3\Packages\sublime-javascript-snippets"
-```
-
 #### Git hash ####
 
 ```Shell
-git clone git@github.com:leftstick/sublime-javascript-snippets-plugin.git "$HOME/AppData/Roaming/sublime Text 3/Packages/sublime-javascript-snippets"
+git clone git@github.com:leftstick/sublime-javascript-snippets-plugin.git ~/AppData/Roaming/Sublime\ Text\ 3/Packages/sublime-javascript-snippets
 ```
 
 ## Snippet description ###
 
-### [ars] Angular $rootScope 
+### [ars] Angular $rootScope
 
 ```javascript
 $rootScope
 ```
 
-### [ato] Angular $timeout expression 
+### [ato] Angular $timeout expression
 
 ```javascript
 $timeout(function(){
