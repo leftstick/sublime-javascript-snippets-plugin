@@ -10,13 +10,13 @@ A collection of javascript snippets can be used in sublime text as a plugin
 ### Mac OS X ###
 
 ```Shell
-git clone git@github.com:leftstick/sublime-javascript-snippets-plugin.git ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/sublime-javascript-snippets
+git clone https://github.com/leftstick/sublime-javascript-snippets-plugin.git ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/sublime-javascript-snippets
 ```
 
 ### Linux ###
 
 ```Shell
-git clone git@github.com:leftstick/sublime-javascript-snippets-plugin.git ~/.config/sublime-text-3/Packages/sublime-javascript-snippets
+git clone https://github.com/leftstick/sublime-javascript-snippets-plugin.git ~/.config/sublime-text-3/Packages/sublime-javascript-snippets
 ```
 
 ### Windows ###
@@ -24,7 +24,7 @@ git clone git@github.com:leftstick/sublime-javascript-snippets-plugin.git ~/.con
 #### Git hash ####
 
 ```Shell
-git clone git@github.com:leftstick/sublime-javascript-snippets-plugin.git ~/AppData/Roaming/Sublime\ Text\ 3/Packages/sublime-javascript-snippets
+git clone https://github.com/leftstick/sublime-javascript-snippets-plugin.git ~/AppData/Roaming/Sublime\ Text\ 3/Packages/sublime-javascript-snippets
 ```
 
 ## Snippet description ###
